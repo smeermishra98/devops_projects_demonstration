@@ -43,5 +43,5 @@ A global bank recruits 500 graduate software developers each year. The developer
 A media company wishes to offer a website where users can upload photographs. Captions and titles can be added to the photographs. Customers can order prints of photos on T-shirts, mugs, and other items. You will need to design, implement and deploy part of the system.
 
 ### Example Project - Domain: Medical
-A hospital wishes to implement a system which can detect harmful drug interactions. They want a mobile phone application which allows doctors to enter or scan prescriptions. The system will then check for drug interactions. Any conflicting drugs will be highlighted so that the prescription can be changed. You will need to design, implement and deploy part of the application.
+A hospital wishes to implement a system which can detect harmful drug interactions. They want a mobile phone application which allows doctors to enter or scan prescriptions. The system will then check for drug interactions. Any conflicting drugs will be highlighted so that the prescription can be changed. You will need to design, implement and deploy part of the application..
 
